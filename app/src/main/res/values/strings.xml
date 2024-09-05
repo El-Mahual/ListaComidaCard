@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListaComida2025-I</string>
+    <string name="desayuno">Desayunos en familia</string>
+    <string name="hamburger">Hamburguesa extra grande</string>
+    <string name="pizza">Pizzas a la Orden</string>
+    <string name="postre">Disfruta de los postres</string>
+    <string name="pozole">Cualquier día es noche mexicana con Pozole</string>
+    <string name="tacos">Tacos de guisado</string>
+
+    <string name="promo_desayuno">10% de descuento</string>
+    <string name="promo_hamburger">2x1 los viernes</string>
+    <string name="promo_pizza">15% de descuento</string>
+    <string name="promo_postre">Ninguna oferta disponible</string>
+    <string name="promo_pozole">Noche mexicana: 20% de descuento</string>
+    <string name="promo_tacos">2x1 en guisados</string>
+
+    <string name="precio_desayuno">$50.0</string>
+    <string name="precio_hamburger">$75.0</string>
+    <string name="precio_pizza">$120.0</string>
+    <string name="precio_postre">$30.0</string>
+    <string name="precio_pozole">$80.0</string>
+    <string name="precio_tacos">$60.0</string>
+
+
+</resources>
